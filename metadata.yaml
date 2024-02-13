@@ -1,0 +1,33 @@
+_repo: The-Layton-Court-mystery_72883
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Berkeley, Anthony
+    aliases:
+    - Cox, Anthony Berkeley
+    - Cox, A. B. (Anthony Berkeley)
+    - Iles, Francis
+    - Platts, A. Monmouth
+    birthdate: 1893
+    deathdate: 1971
+    gutenberg_agent_id: '55972'
+    url: http://www.gutenberg.org/2009/agents/55972
+    wikipedia: https://en.wikipedia.org/wiki/Anthony_Berkeley_Cox
+description: ''
+gutenberg_issued: '2024-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72883'
+language: en
+pgterms:marc905: 20240128201612anthony
+pgterms:marc906: '1925'
+pgterms:marc907: GB
+production_note: Brian Raiter
+publication_note: '  $aLondon :$bLangtail Press, $c1925, reprint 2010.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Layton Court mystery
+url: http://www.gutenberg.org/ebooks/72883
